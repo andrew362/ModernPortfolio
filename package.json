@@ -9,6 +9,7 @@
   "author": "Andrzej Lichoń",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^2.0.0",
     "node-sass": "^4.9.3"
   }
 }
